@@ -1,0 +1,10 @@
+/* Add your external styles here for Lab2 assignment */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
