@@ -1,0 +1,53 @@
+th {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: 16px;
+  color: black;
+  background-color: lightblue;
+  text-align:center;
+  border: 1px solid black;
+  padding: 12px 8px;
+}
+
+td:first-child {
+  font-style: italic;
+  background-color: aliceblue;
+  color: black;
+}
+
+td {
+  font-family :'Times New Roman', Times, serif;
+  font-size: 14px;
+  color: black ;
+  text-align:center;
+  border: 1px solid black;
+  padding: 8px 4px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Times New Roman', Times, serif;
+  color: green;
+  text-align: center;
+  margin: 10px 0;
+}
+
+a:link {
+  color: purple;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: orange;
+  text-decoration: underline;
+}
+
+a:active {
+  color: pink;
+  text-decoration: underline;
+}
+
+a:hover {
+  cursor: pointer;
+  color: olivedrab;
+  text-decoration: underline;
+}
